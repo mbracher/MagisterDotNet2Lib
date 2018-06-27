@@ -7,6 +7,9 @@
     <Company />
     <Description>.net lib for magister api</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>https://github.com/mbracher/MagisterDotNet2Lib</PackageProjectUrl>
+    <RepositoryUrl>git@github.com:mbracher/MagisterDotNet2Lib.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
